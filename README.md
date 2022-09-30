@@ -1,2 +1,3 @@
 # Server-and-Chat
-Server and chat suing sockets in python
+Server and chat using sockets in python
+Simple and Easy and most likely useless
